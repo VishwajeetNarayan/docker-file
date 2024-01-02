@@ -1,0 +1,5 @@
+class r2schools{
+   public static void main(String args[]){
+      System.out.println("Welcome to r2schools");
+     }
+}
